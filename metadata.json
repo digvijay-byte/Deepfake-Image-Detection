@@ -1,0 +1,5 @@
+{
+  "name": "Deepfake Detector AI",
+  "description": "An advanced web application that leverages the Gemini API to analyze images for potential signs of deepfake manipulation. Users can upload an image, and the AI provides a detailed analysis, confidence score, and highlights potential artifacts.",
+  "requestFramePermissions": []
+}
